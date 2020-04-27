@@ -53,7 +53,7 @@
 
 ## 2.界面设计
 ### 2.1界面设计github仓库地址
-[ui展示](https://ThebestTang.github.io/is_analysis_pages/UI/page1.html)
+[ui展示](https://ThebestTang.github.io/is_analysis/UI/page1.html)
 ### 2.2 界面设计图
 #### 2.2.1 借阅图书界面设计图
 ##### 借阅图书填写界面截图
